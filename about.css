@@ -1,0 +1,55 @@
+.carousel-inner{
+  height: 700px;
+}
+body{
+  align-items: center;
+}
+#hgf{
+  padding-left: 45%;
+  padding-top: 6%;
+  padding-bottom: 3%;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+#scn{
+  padding-left: 39%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+#para{
+  padding-left: 5%;
+  padding-right: 5%;
+  font-family: "Ubuntu";
+  font-weight: normal;
+  font-size: 1.2rem;
+
+}
+#bare{
+  padding-left: 5%;
+  padding-right: 5%;
+  font-family: "Ubuntu";
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+h4{
+  padding-left: 25%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2.0rem;
+
+}
+.container{
+  padding: 50px 0 20px;
+}
+h1{
+  font-family:"Montserrat-Black", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+
+}

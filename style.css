@@ -1,0 +1,43 @@
+.col-lg-4{
+  margin-top: 10%;
+}
+.navbar-brand{
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: Bold;
+}
+h1{
+  font-family:"Montserrat-Black", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+.carousel-inner{
+  height: 600px;
+}
+.container{
+    padding: 50px 0 20px;
+}
+#hgf{
+  color: #5f6769;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2.5rem;
+  margin-left: 28%;
+  padding-top: 3%;
+}
+h2{
+  font-family:"Montserrat";
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #3c4245;
+  padding-top: 3%;
+}
+#kjy{
+  color: #3c4245;
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 3rem;
+  margin-left: 28%;
+  padding-top: 2%;
+}
